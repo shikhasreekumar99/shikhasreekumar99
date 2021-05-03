@@ -1,6 +1,6 @@
 ### Hi there, I'm Shikha SreeKumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## Software Developer By Passion! 😉
+## Software Engineer By Passion! 😉
 - 🔭 I’m currently working on Insurance Domain
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
